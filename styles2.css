@@ -1,0 +1,54 @@
+/* Стили для цветов текста */
+.red {
+    color: red; /* Красный текст */
+}
+
+.green {
+    color: green; /* Зеленый текст */
+}
+
+.blue {
+    color: blue; /* Синий текст */
+}
+
+.orange {
+    color: orange; /* Оранжевый текст */
+}
+
+/* Стили для текста */
+.bold {
+    font-weight: bold; /* Полужирный текст */
+}
+
+.italic {
+    font-style: italic; /* Курсивный текст */
+}
+
+/* Стили для размеров текста */
+.xxsmall {
+    font-size: 12px; /* Очень маленький текст */
+}
+
+.xsmall {
+    font-size: 14px; /* Маленький текст */
+}
+
+.small {
+    font-size: 16px; /* Немного меньше среднего */
+}
+
+.medium {
+    font-size: 18px; /* Средний текст */
+}
+
+.large {
+    font-size: 20px; /* Большой текст */
+}
+
+.xlarge {
+    font-size: 22px; /* Очень большой текст */
+}
+
+.xxlarge {
+    font-size: 24px; /* Огромный текст */
+}
